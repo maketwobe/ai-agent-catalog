@@ -98,11 +98,11 @@ graph TD
 ```
 
 ## 6. Features Incluídas
-  ✅ Cadastro de empresas via linguagem natural
-  ✅ Busca vetorial semântica usando embeddings
-  ✅ Armazenamento em PostgreSQL e ChromaDB
-  ✅ Frontend responsivo em Streamlit
-  ✅ Observabilidade completa com LangSmith
-  ✅ Separação clara entre camadas: agentes, API, vetor, banco
+  - Cadastro de empresas via linguagem natural
+  - Busca vetorial semântica usando embeddings
+  - Armazenamento em PostgreSQL e ChromaDB
+  - Frontend responsivo em Streamlit
+  - Observabilidade completa com LangSmith
+  - Separação clara entre camadas: agentes, API, vetor, banco
 
 
